@@ -3,7 +3,7 @@
  * @return {boolean}
  */
  const containsDuplicate = function(nums){
-    /* There's two ways to solve this problem, without using Set structure and with it */
+    /* There's two ways to solve this problem, without using Set structure and with it*/
     const table = {}
      let duplicated = false
      
