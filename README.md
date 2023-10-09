@@ -5,5 +5,5 @@ I started doing some courses, below I'll provide a list of these courses along w
 Courses: 
 
 [Neetcode](https://neetcode.io/courses)
-- Algorithms & Data Structurees for Beginners
+- Algorithms & Data Structures for Beginners
   - [Arrays](./courses/neetcode/1.Arrays/)
