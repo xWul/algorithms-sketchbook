@@ -7,3 +7,4 @@ Courses:
 [Neetcode](https://neetcode.io/courses)
 - Algorithms & Data Structures for Beginners
   - [Arrays](./courses/neetcode/1.Arrays/)
+  - [Linked Lists](./courses/neetcode/2.Linked_Lists/)
