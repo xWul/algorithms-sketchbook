@@ -11,3 +11,4 @@ Courses:
   - [Recursion](./courses/neetcode/3.Recursion/)
   - [Sorting](./courses/neetcode/4.Sorting/)
   - [Binary Search](./courses/neetcode/5.Binary_Search/)
+  - [Trees](./courses/neetcode/6.Trees/)
