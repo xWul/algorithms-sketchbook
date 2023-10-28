@@ -13,3 +13,4 @@ Courses:
   - [Binary Search](./courses/neetcode/5.Binary_Search/)
   - [Trees](./courses/neetcode/6.Trees/)
   - [Backtracking](./courses/neetcode/7.Backtracking/)
+  - [Heap](./courses/neetcode/8.Heap/)
