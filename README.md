@@ -14,3 +14,4 @@ Courses:
   - [Trees](./courses/neetcode/6.Trees/)
   - [Backtracking](./courses/neetcode/7.Backtracking/)
   - [Heap](./courses/neetcode/8.Heap/)
+  - [Hashing](./courses/neetcode/9.Hashing/)
