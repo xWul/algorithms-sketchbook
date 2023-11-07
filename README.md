@@ -15,3 +15,4 @@ Courses:
   - [Backtracking](./courses/neetcode/7.Backtracking/)
   - [Heap](./courses/neetcode/8.Heap/)
   - [Hashing](./courses/neetcode/9.Hashing/)
+  - [Graphs](./courses/neetcode/10.Graphs/)
