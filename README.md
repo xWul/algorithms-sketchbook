@@ -16,3 +16,5 @@ Courses:
   - [Heap](./courses/neetcode/8.Heap/)
   - [Hashing](./courses/neetcode/9.Hashing/)
   - [Graphs](./courses/neetcode/10.Graphs/)
+  - [Dynamic Programming](./courses/neetcode/11.Dynamic_Programming/)
+  - [Bit Manipulation](./courses/neetcode/12.Bit_Manipulation/)
